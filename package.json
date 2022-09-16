@@ -1,0 +1,15 @@
+{
+  "name": "mern-workouts-practice",
+  "version": "1.0.0",
+  "description": "react, nodejs and mongodb",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "workspaces":[
+    "frontend",
+    "backend"
+  ],
+  "author": "",
+  "license": "ISC"
+}
